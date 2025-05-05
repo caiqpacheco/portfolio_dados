@@ -25,10 +25,10 @@
 | Tecnologia | Logo | Nível |
 |------------|------|-------|
 | **Python** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 🟩🟩🟩🟨⬜ *(Intermediário)* |
-| **Pandas** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | 🟩🟩🟩⬜⬜ *(Básico/Intermediário)* |
-| **NumPy** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | 🟩🟩🟩⬜⬜ *(Básico/Intermediário)* |
-| **Power BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) | 🟩🟩🟩🟩⬜ *(Intermediário/Avançando)* |
-| **SQL** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | 🟩🟩🟨⬜⬜ *(Básico)* |
+| **Pandas** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | 🟩⬜⬜⬜⬜ *(Básico)* |
+| **NumPy** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | 🟩⬜⬜⬜ *(Básico)* |
+| **Power BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) | 🟩🟩🟩⬜⬜ *(Intermediário)* |
+| **SQL** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | 🟩🟩🟨⬜⬜ *(intermediário)* |
 | **Excel** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | 🟩🟩🟩⬜⬜ *(Básico/Intermediário)* |
 | **Git & GitHub** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | 🟩🟩🟨⬜⬜ *(Básico)* |
 | **Visualização de Dados** | 📊 | 🟩🟩🟩🟨⬜ *(Intermediário)* |
