@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Olá, eu sou o Caique Pacheco!</h1>
 
 <p align="center">
@@ -16,24 +15,40 @@
   <a href="mailto:caiqueplayer24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://caiqpacheco.github.io/CaiquePacheco/">
+    <img src="https://img.shields.io/badge/Portfólio-30363D?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Tecnologias & Níveis de Conhecimento
+## 🚀 Tecnologias & Ferramentas
 
-| Tecnologia | Logo | Nível |
-|------------|------|-------|
-| **Python** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 🟩🟩🟩🟨⬜ *(Intermediário)* |
-| **Pandas** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | 🟩⬜⬜⬜⬜ *(Básico)* |
-| **NumPy** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | 🟩⬜⬜⬜ *(Básico)* |
-| **Power BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) | 🟩🟩🟩⬜⬜ *(Intermediário)* |
-| **SQL** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | 🟩🟩🟨⬜⬜ *(intermediário)* |
-| **Excel** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | 🟩🟩🟩⬜⬜ *(Básico/Intermediário)* |
-| **Git & GitHub** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | 🟩🟩🟨⬜⬜ *(Básico)* |
-| **Visualização de Dados** | 📊 | 🟩🟩🟩🟨⬜ *(Intermediário)* |
+<p align="center">
+  <img src="https://img.shields.io/badge/Visualização de Dados-📊-blue?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+> 🧠 Níveis de conhecimento: Intermediário em Python, Power BI, SQL, Excel e Visualização de Dados. Iniciante em Pandas, NumPy, Git & GitHub.
+
+---
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| **Análise de Sinistros** | Análise exploratória de dados de uma seguradora para identificar padrões em sinistros. | Power BI, SQL, Python | [Ver Projeto](https://github.com/caiqpacheco/projeto-seguradora) |
+| **Dashboard de Vendas** | Criação de um dashboard interativo com dados fictícios de vendas. | Power BI, Excel | [Ver Projeto](https://github.com/caiqpacheco/dashboard-vendas) |
+| **Limpeza de Dados com Pandas** | Script em Python para tratar e transformar dados brutos em dados prontos para análise. | Python, Pandas | [Ver Projeto](https://github.com/caiqpacheco/limpeza-dados-pandas) |
+| **Análise de Desempenho Escolar** | Estudo de notas e frequência para prever evasão escolar. | Python, Power BI, SQL | [Ver Projeto](https://github.com/caiqpacheco/desempenho-escolar) |
 
 ---
 
 🎯 *Sempre aprendendo e evoluindo! Este portfólio é atualizado conforme novos projetos são concluídos.*
-
