@@ -46,11 +46,12 @@
 |--------|-----------|-------------|------|
 | **Dashboard de Riscos em Seguradora** | Visualização interativa desenvolvida para identificar padrões de risco entre clientes, cruzando variáveis como idade, custo do seguro e histórico de infrações. Ideal para decisões estratégicas em seguradoras. | Python, Power BI | [Ver Dashboard](https://app.powerbi.com/reportEmbed?reportId=2215db28-6412-406e-9095-601cab1affc9&autoAuth=true&ctid=58674b1f-122e-4f0b-989f-a1e1d8191402) |
 | **Análise de Sinistros** | Análise exploratória de dados de uma seguradora para identificar padrões em sinistros. | Power BI, SQL, Python | [Ver Projeto](https://github.com/caiqpacheco/projeto-seguradora) |
-| **Dashboard de Vendas** | Criação de um dashboard interativo com dados fictícios de vendas. | Power BI, Excel | [Ver Projeto](https://github.com/caiqpacheco/dashboard-vendas) |
+| **Dashboard de Vendas** | Criação de um dashboard interativo com dados fictícios de vendas. | Power BI, Excel | [Ver Dashboard](https://app.powerbi.com/reportEmbed?reportId=267d1247-0895-4549-8aed-9684b250dd77&autoAuth=true&ctid=58674b1f-122e-4f0b-989f-a1e1d8191402) |
 | **Limpeza de Dados com Pandas** | Script em Python para tratar e transformar dados brutos em dados prontos para análise. | Python, Pandas | [Ver Projeto](https://github.com/caiqpacheco/limpeza-dados-pandas) |
 | **Análise de Desempenho Escolar** | Estudo de notas e frequência para prever evasão escolar. | Python, Power BI, SQL | [Ver Projeto](https://github.com/caiqpacheco/desempenho-escolar) |
 
 ---
 
 🎯 *Sempre aprendendo e evoluindo! Este portfólio é atualizado conforme novos projetos são concluídos.*
+
 
